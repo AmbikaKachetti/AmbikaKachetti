@@ -43,14 +43,6 @@ I’m always eager to learn new technologies and contribute to innovative projec
 
 ## 🌟 Highlights  
 
-- **💻 Natural Farming Web Application (Ongoing):** Developing a platform to promote sustainable and natural farming practices.  
-- **🛒 WearBy E-Commerce Application:** Building a dynamic e-commerce platform with a seamless shopping experience.  
-- **🌐 Portfolio Website:** Showcasing my personal projects and achievements.  
-
----
-
-## 🌟 Highlights  
-
 - **🌱 Natural Farming Web App:** Developing an innovative platform to assist farmers in sustainable agriculture.  
 - **💡 Incredible Mock Master:** Planning to launch a startup to assess and enhance interview readiness.
 - **🛒 WearBy E-Commerce Application:** Building a dynamic e-commerce platform with a seamless shopping experience.  
