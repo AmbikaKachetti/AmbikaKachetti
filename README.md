@@ -1,4 +1,4 @@
-# 👩‍💻 Ambika Kachetti | MERN Full Stack Developer  
+# 👩‍💻 **Ambika Rama Katyayini** | MERN Full Stack Developer  
 
 Hi, I'm **Ambika Kachetti**, an aspiring **Software Developer** with hands-on experience in **MERN stack** development and a solid foundation in **web development**. I am currently focusing on building scalable and efficient applications, including a platform that promotes sustainable and natural farming practices.
 
@@ -55,7 +55,7 @@ I’m always eager to learn new technologies and contribute to innovative projec
 ## 🔗 Let’s Connect  
 
 - **GitHub:** [ambikakachetti](https://github.com/ambikakachetti)  
-- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/ambika-rama-katyayini-k)  
+- **LinkedIn:** [ambika-rama-katyayini-k](https://www.linkedin.com/in/ambika-rama-katyayini-k)  
 
 ---
 
