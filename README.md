@@ -41,17 +41,6 @@ I’m always eager to learn new technologies and contribute to innovative projec
 
 ---
 
-## 🌟 Highlights  
-
-- **🌱 Natural Farming Web App:** Developing an innovative platform to assist farmers in sustainable agriculture.  
-- **💡 Incredible Mock Master:** Planning to launch a startup to assess and enhance interview readiness.
-- **🛒 WearBy E-Commerce Application:** Building a dynamic e-commerce platform with a seamless shopping experience.  
-- **🌐 Portfolio Website:** Showcasing my personal projects and achievements.  
-- **📊 Data Analyst Expertise:** Over 4 years of experience in data analysis and visualization.  
-- **🏥 HealthCare IT:** Gained valuable insights as a **Research Analyst**.  
-
----
-
 ## 🔗 Let’s Connect  
 
 - **GitHub:** [ambikakachetti](https://github.com/ambikakachetti)  
