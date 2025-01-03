@@ -1,39 +1,71 @@
-<h1 align="center">Hi 👋, I'm Ambika Rama Katyayini</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👩‍💻 Ambika Kachetti | MERN Full Stack Developer  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ambikakachetti&label=Profile%20views&color=0e75b6&style=flat" alt="ambikakachetti" /> </p>
+Hi, I'm **Ambika Kachetti**, an aspiring **Software Developer** with hands-on experience in **MERN stack** development and a solid foundation in **web development**. I am currently focusing on building scalable and efficient applications, including a platform that promotes sustainable and natural farming practices.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ambikakachetti" alt="ambikakachetti" /></a> </p>
+I’m always eager to learn new technologies and contribute to innovative projects.
 
-- 🔭 I’m currently working on **Full Stack Projects**
+---
 
-- 🌱 I’m currently learning **Node to the Fullest**
+## 🛠️ Technical Skills  
 
-- 👯 I’m looking to collaborate on **MERN Stack**
+### **Programming Languages**  
+- ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 
-- 🤝 I’m looking for help with **New Trends**
+### **Frontend Development**  
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
+- ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)  
 
-- 👨‍💻 All of my projects are available at [https://katyayini-portfolio.netlify.app](https://katyayini-portfolio.netlify.app)
+### **Backend Development**  
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
+- ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
 
-- 💬 Ask me about **JavaScript, React,AI**
+### **Databases**  
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+- ![Neo4j](https://img.shields.io/badge/-Neo4J-009639?style=flat&logo=neo4j&logoColor=white)  
 
-- 📫 How to reach me **ambikaramakatyayini.k@gmail.com**
+### **Tools & Other Skills**  
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
+- ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)  
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
+- ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)  
+- ![PowerBI](https://img.shields.io/badge/-Power_BI-FF7F00?style=flat&logo=powerbi&logoColor=white)  
+- ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+- ![HubSpot](https://img.shields.io/badge/-HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)  
 
-- ⚡ Fun fact **I’m a web developer with a great sense of humor to keep things fun!**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/ambika-rama-katyayini-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/ambika-rama-katyayini-k" height="30" width="40" /></a>
-</p>
+## 🌟 Highlights  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+- **💻 Natural Farming Web Application (Ongoing):** Developing a platform to promote sustainable and natural farming practices.  
+- **🛒 WearBy E-Commerce Application:** Building a dynamic e-commerce platform with a seamless shopping experience.  
+- **🌐 Portfolio Website:** Showcasing my personal projects and achievements.  
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/AR_Katyayini"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AR_Katyayini" /></a></p><br><br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambikakachetti&show_icons=true&locale=en&layout=compact" alt="ambikakachetti" /></p>
+## 🌟 Highlights  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ambikakachetti&show_icons=true&locale=en" alt="ambikakachetti" /></p>
+- **🌱 Natural Farming Web App:** Developing an innovative platform to assist farmers in sustainable agriculture.  
+- **💡 Incredible Mock Master:** Planning to launch a startup to assess and enhance interview readiness.
+- **🛒 WearBy E-Commerce Application:** Building a dynamic e-commerce platform with a seamless shopping experience.  
+- **🌐 Portfolio Website:** Showcasing my personal projects and achievements.  
+- **📊 Data Analyst Expertise:** Over 4 years of experience in data analysis and visualization.  
+- **🏥 HealthCare IT:** Gained valuable insights as a **Research Analyst**.  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ambikakachetti&" alt="ambikakachetti" /></p>
+---
+
+## 🔗 Let’s Connect  
+
+- **GitHub:** [ambikakachetti](https://github.com/ambikakachetti)  
+- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/ambika-rama-katyayini-k)  
+
+---
+
+### 💡 "A code with purpose, a project with impact."
+### 🌱 "Every line of code has the potential to grow something amazing."
