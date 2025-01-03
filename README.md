@@ -1,6 +1,6 @@
 # 👩‍💻 **Ambika Rama Katyayini** | MERN Full Stack Developer  
 
-Hi, I'm **Ambika Kachetti**, an aspiring **Software Developer** with hands-on experience in **MERN stack** development and a solid foundation in **web development**. I am currently focusing on building scalable and efficient applications, including a platform that promotes sustainable and natural farming practices.
+Hi, I'm **Ambika Rama Katyayini**, an aspiring **Software Developer** with hands-on experience in **MERN stack** development and a solid foundation in **web development**. I am currently focusing on building scalable and efficient applications, including a platform that promotes sustainable and natural farming practices.
 
 I’m always eager to learn new technologies and contribute to innovative projects.
 
