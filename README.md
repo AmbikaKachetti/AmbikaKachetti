@@ -19,25 +19,20 @@ I’m always eager to learn new technologies and contribute to innovative projec
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
 - ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-- Here are the shields for the requested technologies:
+- ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-111827?style=flat&logo=tailwindcss&logoColor=white)  
+- ![Next.js 14](https://img.shields.io/badge/-Next.js%2014-000000?style=flat&logo=next.js&logoColor=white)  
+- ![Clerk](https://img.shields.io/badge/-Clerk-3B82F6?style=flat&logo=clerk&logoColor=white)
+  
+### **Cloud** 
+- ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+  
+### **Deployment** 
+- ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+- [![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)](https://render.com/)
+- [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
-- **shadcn/ui**:  
-  ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-111827?style=flat&logo=tailwindcss&logoColor=white)  
-
-- **Next.js 14**:  
-  ![Next.js 14](https://img.shields.io/badge/-Next.js%2014-000000?style=flat&logo=next.js&logoColor=white)  
-
-- **Clerk**:  
-  ![Clerk](https://img.shields.io/badge/-Clerk-3B82F6?style=flat&logo=clerk&logoColor=white)  
-
-- **Microsoft Azure**:  
-  ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
-
-- **Vercel**:  
-  ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)  
-
-- **GitHub Copilot**:  
-  ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-222222?style=flat&logo=github&logoColor=white)  
+- ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-222222?style=flat&logo=github&logoColor=white)  
 
 ### **Backend Development**  
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
@@ -49,7 +44,6 @@ I’m always eager to learn new technologies and contribute to innovative projec
 - ![Neo4j](https://img.shields.io/badge/-Neo4J-009639?style=flat&logo=neo4j&logoColor=white)  
 
 ### **Tools & Other Skills**  
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
 - ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
 - ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)  
 - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
