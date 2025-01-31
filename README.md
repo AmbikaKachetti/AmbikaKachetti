@@ -18,7 +18,26 @@ I’m always eager to learn new technologies and contribute to innovative projec
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
-- ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)  
+- ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+- Here are the shields for the requested technologies:
+
+- **shadcn/ui**:  
+  ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-111827?style=flat&logo=tailwindcss&logoColor=white)  
+
+- **Next.js 14**:  
+  ![Next.js 14](https://img.shields.io/badge/-Next.js%2014-000000?style=flat&logo=next.js&logoColor=white)  
+
+- **Clerk**:  
+  ![Clerk](https://img.shields.io/badge/-Clerk-3B82F6?style=flat&logo=clerk&logoColor=white)  
+
+- **Microsoft Azure**:  
+  ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
+
+- **Vercel**:  
+  ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)  
+
+- **GitHub Copilot**:  
+  ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-222222?style=flat&logo=github&logoColor=white)  
 
 ### **Backend Development**  
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
