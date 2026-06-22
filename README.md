@@ -52,8 +52,42 @@ I’m always eager to learn new technologies and contribute to innovative projec
 - ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
 - ![HubSpot](https://img.shields.io/badge/-HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)  
 
----
+### ☁️ DevOps & Cloud
 
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+- ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+- ![Apache Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+- ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
+- ![Nexus](https://img.shields.io/badge/-Nexus-1B1C30?style=flat)
+- ![Apache Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)
+- ![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF9900?style=flat&logo=amazonaws&logoColor=white)
+- ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+---
+## 🚀 DevOps Projects & Practice
+
+### Jenkins CI/CD Integration
+- Integrated GitHub repository with Jenkins
+- Configured automated source code checkout
+- Created Jenkins Freestyle Jobs
+- Practiced build automation using Maven
+- Analyzed Jenkins build logs and troubleshooting
+
+### AWS Practice
+- Worked with EC2, IAM, S3, VPC, ELB, Auto Scaling and CloudWatch
+- Deployed applications on AWS infrastructure
+
+### Containerization & Orchestration
+- Created Docker images and containers
+- Practiced Kubernetes deployments, services, and scaling concepts
+
+### Code Quality & Artifact Management
+- Performed code quality analysis using SonarQube
+- Managed build artifacts using Nexus Repository
 ## 🔗 Let’s Connect  
 
 - **GitHub:** [ambikakachetti](https://github.com/ambikakachetti)  
