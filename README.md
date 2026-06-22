@@ -1,8 +1,12 @@
-# 👩‍💻 **Ambika Rama Katyayini** | MERN Full Stack Developer  
+# 👩‍💻 Ambika Rama Katyayini | Full Stack Developer & DevOps Enthusiast
 
-Hi, I'm **Ambika Rama Katyayini**, an aspiring **Software Developer** with hands-on experience in **MERN stack** development and a solid foundation in **web development**. I am currently focusing on building scalable and efficient applications, including a platform that promotes sustainable and natural farming practices.
+Hi, I'm **Ambika Rama Katyayini**, a **Full Stack Developer** with hands-on experience in **MERN Stack Development** and a growing focus on **DevOps and Cloud Technologies**.
 
-I’m always eager to learn new technologies and contribute to innovative projects.
+I have practical experience with **Git, GitHub, Jenkins, Maven, Docker, Kubernetes, Linux, AWS, SonarQube, Nexus, and CI/CD pipelines**. I enjoy bridging the gap between development and operations by automating deployments, improving development workflows, and building scalable applications.
+
+Currently, I am strengthening my DevOps skills through hands-on projects involving **AWS Cloud, Jenkins CI/CD, Docker Containerization, Kubernetes Orchestration, and Infrastructure Automation**.
+
+I’m always eager to learn new technologies, solve real-world problems, and contribute to innovative projects.
 
 ---
 
